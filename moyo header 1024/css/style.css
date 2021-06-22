@@ -1,0 +1,168 @@
+#headerMoyo {
+    position: absolute;
+    width: 1024px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05);
+}
+#moyoLogo {
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    left: 50px;
+    top: 10px;
+}
+
+a {
+    text-decoration: none
+  }
+
+.navLink:hover {
+    text-decoration: underline;
+    text-decoration-color: #00ACDC;
+}
+#appleID {
+    position: absolute;
+    width: 37px;
+    height: 15px;
+    left: 221px;
+    top: 22.5px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+    
+    color: #00ACDC;
+}
+#blueBox {
+    position: absolute;
+    width: 37px;
+    height: 4px;
+    left: 221px;
+    top: 56px;
+
+    background: #00ACDC;
+    border-radius: 8px;
+}
+#samsungID {
+    position: absolute;
+    width: 58px;
+    height: 15px;
+    left: 278px;
+    top: 23px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#smartphoneID {
+    position: absolute;
+    width: 152px;
+    height: 15px;
+    left: 356px;
+    top: 23px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    
+}
+#notebookID {
+    position: absolute;
+    width: 163px;
+    height: 15px;
+    left: 528px;
+    top: 23px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+    
+    color: #00ACDC;
+}
+#gadgetID {
+    position: absolute;
+    width: 59px;
+    height: 15px;
+    left: 711px;
+    top: 23px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+    
+    color: #000000;
+}
+#tabletID {
+    position: absolute;
+    width: 70px;
+    height: 15px;
+    left: 790px;
+    top: 23px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+    
+    color: #000000;
+
+}
+#photoID {
+    position: absolute;
+    width: 33px;
+    height: 15px;
+    left: 880px;
+    top: 23px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+    
+    color: #000000;
+
+}
+#videoID {
+    position: absolute;
+    width: 41px;
+    height: 15px;
+    left: 933px;
+    top: 22.5px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+    
+    color: #000000;
+}
