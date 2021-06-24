@@ -144,9 +144,6 @@
     min-width: 875px;
 }
 
-.samsung:active {
-    background-color: black;
-}
 .blueBox {
     position: absolute;
     width: 37px;
